@@ -1,0 +1,30 @@
+{
+	"manifest_version": 3,
+	"name": "Aliexpress Language Enforcer",
+	"version": "1.0",
+	"description": "Force any AliExpress locale page to redirect to its global equivalent or other based on location/language/currency settings.",
+	"icons": {
+		"48": "icons/icon-48.png",
+		"96": "icons/icon-96.png",
+		"128": "icons/icon-128.png"
+	},
+	"action": {
+		"default_popup": "ui.html",
+		"default_icon": "icons/icon-96.png"
+	},
+
+	"permissions": [
+		"activeTab",
+		"storage"
+	],
+	"content_scripts": [{
+		"matches": ["https://*.aliexpress.com/*"],
+		"js": ["browser-polyfill.min.js", "aliexpress_language_enforcer.js"]
+	}],
+	"browser_specific_settings": {
+	  "gecko": {
+		"id": "aliexpress_language_enforcer@example.com"
+	  }
+	}
+
+}
