@@ -1,9 +1,19 @@
 
 Force any AliExpress locale (like xx.aliexpress.com) page to redirect to its global equivalent
-* Use /extension as browser extension (tested on Chrome/Firefox)
-  * Click on the extension icon to set region and currency settings. Don't forget to click save!
+
+## Browser Extension\Add-On
+
+* Install via [Firefox Extension Store](https://addons.mozilla.org/en-GB/firefox/addon/aliexpress-language-enforcer/)
 
 OR
+
+* Install manually:
+  * Use /extension as browser extension (tested on Chrome/Firefox)
+  * Click on the extension icon to set region and currency settings. Don't forget to click save!
+
+
+## Userscript
+
 * Use /user_script as User Script in Greasemoneky, Tampermonkey or equivalent browser extension.
   * Use the global variables to set your desired region and currency:
   ```
