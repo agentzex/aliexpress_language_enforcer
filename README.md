@@ -21,6 +21,7 @@ Watch:
 https://github.com/user-attachments/assets/0972eaf1-457d-4b5c-bbac-affdba32577f
 
 
+
 ## Browser Extension\Add-On
 
 Click on the extension icon to set region and currency settings. Don't forget to click save!
