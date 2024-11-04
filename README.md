@@ -7,7 +7,7 @@ This works great if you happen to compare Aliexpress items prices via image sear
 is a link to an item page in a different language/locale than your default one. 
 
 Usually what happens is not only that link will open in a different language, but also Aliexpress
-might stuck with that langauge for any other page you open until you manually change it via the language/currency/locale settings. 
+might stuck with that language for any other page you open until you manually change it via the language/currency/locale settings. 
 
 This tool solves this annoying issue! 
 
