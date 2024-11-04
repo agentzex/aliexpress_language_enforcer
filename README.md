@@ -15,15 +15,17 @@ This tool solves this annoying issue!
 Watch:
 
 
-
-
 https://github.com/user-attachments/assets/0972eaf1-457d-4b5c-bbac-affdba32577f
 
 
 
 ## Browser Extension\Add-On
 
+
 Click on the extension icon to set region and currency settings. Don't forget to click save!
+
+![thumbnail](https://github.com/user-attachments/assets/b9df4f26-9759-4181-866c-9eaccf0b9d4f)
+
 
 * Install via [Firefox Extension Store](https://addons.mozilla.org/en-GB/firefox/addon/aliexpress-language-enforcer/)
 
