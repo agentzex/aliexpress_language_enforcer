@@ -10,8 +10,11 @@ Usually what happens is not only that link will open in a different language, bu
 might stuck with that langauge for any other page you open until you manually change it via the language/currency/locale settings. 
 
 This tool solves this annoying issue! 
-
 Watch:
+
+
+![thumbnail](https://github.com/user-attachments/assets/fdd8fa5b-aece-4979-8e65-bc333fd47653)
+
 
 https://github.com/user-attachments/assets/0972eaf1-457d-4b5c-bbac-affdba32577f
 
