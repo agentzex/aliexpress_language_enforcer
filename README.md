@@ -9,11 +9,13 @@ is a link to an item page in a different language/locale than your default one.
 Usually what happens is not only that link will open in a different language, but also Aliexpress
 might stuck with that langauge for any other page you open until you manually change it via the language/currency/locale settings. 
 
-This tool solves this annoying issue! Watch:
-<video src="https://github.com/" width="50%" />
+This tool solves this annoying issue! 
+
+Watch:
 
 
-[![Watch the video](https://raw.githubusercontent.com/agentzex/aliexpress_language_enforcer/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/agentzex/aliexpress_language_enforcer/main/assets/demo.mp4)
+
+[![Watch the vkideo](https://raw.githubusercontent.com/agentzex/aliexpress_language_enforcer/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/agentzex/aliexpress_language_enforcer/main/assets/demo.mp4)
 
 
 ### Browser Extension\Add-On
