@@ -1,5 +1,5 @@
 
-## What it's for
+## What It's For
 
 Force any AliExpress locale (like xx.aliexpress.com) page to redirect to its global equivalent
 
@@ -11,14 +11,17 @@ might stuck with that langauge for any other page you open until you manually ch
 
 This tool solves this annoying issue! 
 
+
 Watch:
 
 
-<video poster="https://raw.githubusercontent.com/agentzex/aliexpress_language_enforcer/main/assets/thumbnail.jpg" src="https://raw.githubusercontent.com/agentzex/aliexpress_language_enforcer/main/assets/demo.mp4" width="50%">
-</video>
+![thumbnail](https://github.com/user-attachments/assets/fdd8fa5b-aece-4979-8e65-bc333fd47653)
 
 
-### Browser Extension\Add-On
+https://github.com/user-attachments/assets/0972eaf1-457d-4b5c-bbac-affdba32577f
+
+
+## Browser Extension\Add-On
 
 Click on the extension icon to set region and currency settings. Don't forget to click save!
 
@@ -30,7 +33,7 @@ OR
   * Use /extension as browser extension (tested on Chrome/Firefox)
 
 
-### Userscript
+## Userscript
 
 * Use /user_script as User Script in Greasemoneky, Tampermonkey or equivalent browser extension.
   * Use the global variables to set your desired region and currency:
