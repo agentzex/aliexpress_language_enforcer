@@ -14,8 +14,8 @@ This tool solves this annoying issue!
 Watch:
 
 
-
-[![Watch the vkideo](https://raw.githubusercontent.com/agentzex/aliexpress_language_enforcer/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/agentzex/aliexpress_language_enforcer/main/assets/demo.mp4)
+<video poster="https://raw.githubusercontent.com/agentzex/aliexpress_language_enforcer/main/assets/thumbnail.jpg" src="https://raw.githubusercontent.com/agentzex/aliexpress_language_enforcer/main/assets/demo.mp4" width="50%">
+</video>
 
 
 ### Browser Extension\Add-On
