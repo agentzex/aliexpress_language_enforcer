@@ -13,9 +13,7 @@ This tool solves this annoying issue!
 
 Watch:
 
-
-<video poster="https://raw.githubusercontent.com/agentzex/aliexpress_language_enforcer/main/assets/thumbnail.jpg" src="https://raw.githubusercontent.com/agentzex/aliexpress_language_enforcer/main/assets/demo.mp4" width="50%">
-</video>
+https://github.com/user-attachments/assets/0972eaf1-457d-4b5c-bbac-affdba32577f
 
 
 ### Browser Extension\Add-On
