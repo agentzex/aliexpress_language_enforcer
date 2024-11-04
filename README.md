@@ -1,7 +1,24 @@
 
+## What it's for
+
 Force any AliExpress locale (like xx.aliexpress.com) page to redirect to its global equivalent
 
-## Browser Extension\Add-On
+This works great if you happen to compare Aliexpress items prices via image search and other addons, and one of the search results
+is a link to an item page in a different language/locale than your default one. 
+
+Usually what happens is not only that link will open in a different language, but also Aliexpress
+might stuck with that langauge for any other page you open until you manually change it via the language/currency/locale settings. 
+
+This tool solves this annoying issue! Watch:
+<video src="https://github.com/" width="50%" />
+
+[![Watch the video]()](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4)
+
+
+
+### Browser Extension\Add-On
+
+Click on the extension icon to set region and currency settings. Don't forget to click save!
 
 * Install via [Firefox Extension Store](https://addons.mozilla.org/en-GB/firefox/addon/aliexpress-language-enforcer/)
 
@@ -9,10 +26,9 @@ OR
 
 * Install manually:
   * Use /extension as browser extension (tested on Chrome/Firefox)
-  * Click on the extension icon to set region and currency settings. Don't forget to click save!
 
 
-## Userscript
+### Userscript
 
 * Use /user_script as User Script in Greasemoneky, Tampermonkey or equivalent browser extension.
   * Use the global variables to set your desired region and currency:
