@@ -13,8 +13,7 @@ This tool solves this annoying issue! Watch:
 <video src="https://github.com/" width="50%" />
 
 
-[![Watch the video](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/agentzex/aliexpress_language_enforcer/main/assets/demo.mp4)
-
+[![Watch the video](https://raw.githubusercontent.com/agentzex/aliexpress_language_enforcer/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/agentzex/aliexpress_language_enforcer/main/assets/demo.mp4)
 
 
 ### Browser Extension\Add-On
