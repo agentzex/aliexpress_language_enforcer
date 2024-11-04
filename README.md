@@ -1,7 +1,7 @@
 
 ## What It's For
 
-Force any AliExpress locale (like xx.aliexpress.com) page to redirect to its global equivalent
+Force any AliExpress locale (like xx.aliexpress.com, where xx is the two-letter language ISO code) page to redirect to its global equivalent
 
 This works great if you happen to compare Aliexpress items prices via image search and other addons, and one of the search results
 is a link to an item page in a different language/locale than your default one. 
@@ -15,7 +15,6 @@ This tool solves this annoying issue!
 Watch:
 
 
-![thumbnail](https://github.com/user-attachments/assets/fdd8fa5b-aece-4979-8e65-bc333fd47653)
 
 
 https://github.com/user-attachments/assets/0972eaf1-457d-4b5c-bbac-affdba32577f
